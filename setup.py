@@ -6,4 +6,5 @@ setup(name='lppackage',
       author='F2L',
       license='Zalo',
       packages=['lppackage'],
+      dependency_links=['https://github.com/LocLePhuoc/packaging_test.git'],
       zip_safe=False)
